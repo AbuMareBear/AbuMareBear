@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah
 
-<!--
-**AbuMareBear/AbuMareBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ruby on Rails developer who likes helping people learn. I run [Guided Rails](https://guidedrails.com), an organization for mentoring new and aspiring Rails developers.
 
-Here are some ideas to get you started:
+I'm also a contributor to [Stocks in the Future](https://github.com/rubyforgood/stocks-in-the-future), a Ruby for Good project that supports financial literacy for students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have questions about Rails, want some advice, or just want to talk about programming, feel free to email me: **abdul@hey.com**
+
+I'm always open to pairing. If you want to pair on something, just ask.
+
+---
+
+I play the banjo (badly). If you ever need to hear a terrible version of “Old Joe Clark,” I’m your man.
